@@ -1,0 +1,29 @@
+C:\Users\Acer\source\repos\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\Acer\source\repos\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\Acer\source\repos\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\Acer\source\repos\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\Acer\source\repos\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\Acer\source\repos\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\Acer\source\repos\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\Acer\source\repos\PharmacyManagementSystem\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\source\repos\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+C:\Users\Acer\source\repos\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Administrator.resources
+C:\Users\Acer\source\repos\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_Dashboard.resources
+C:\Users\Acer\source\repos\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_AddUser.resources
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Administrator.resources
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_AddUser.resources
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_Dashboard.resources
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+E:\Academic\AIUB\Semester 6\OOP2\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
